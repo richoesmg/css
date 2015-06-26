@@ -1,0 +1,62 @@
+<div class="x-inner x-toolbar-inner x-layout-hbox" id="ext-element-7" style="-webkit-box-align: center;">
+  <div class="x-button x-button-back" id="ext-button-112">
+    <span class="x-badge" style="display: none;"></span>
+    <span class="x-button-icon" style="display: none;"></span>
+	<span class="x-button-label" id="ext-element-1456">Back</span>
+  </div><div id="toptoolbarleftspacer" class="x-layout-box-item" style="-webkit-box-flex: 1;"></div>
+  <div class="x-button x-iconalign-center x-button-logo toolbarlogo" id="ext-button-113" style="-webkit-box-flex: 0;">
+    <span class="x-badge" style="display: none;"></span><span class="x-button-icon toolbarlogo" id="ext-element-1457"></span>
+	<span class="x-button-label" style="display: none;"></span></div><div id="toptoolbarrightspacer" class="x-layout-box-item" style="-webkit-box-flex: 1;"></div>
+	<div class="bannersearchIcon bannersearchIcon-normal" id="ext-button-114">
+	  <span class="x-badge" style="display: none;"></span>
+	  <span class="x-button-icon" style="display: none;"></span>
+	  <span class="x-button-label" style="display: none !important;" id="ext-element-1458"></span>
+	</div>
+	<div class="x-button-normal x-button" id="ext-button-115">
+	  <span class="x-badge" style="display: none;"></span>
+	  <span class="x-button-icon" style="display: none;"></span>
+	  <span class="x-button-label" id="ext-element-1459">Project</span>
+	</div><div class="bannerdotIcon bannerdotIcon-normal" id="ext-iq_sidemenubtn-7">
+	  <span class="x-badge" style="display: none;"></span><span class="x-button-icon" style="display: none;"></span>
+	  <span class="x-button-label" style="display: none !important;" id="ext-element-1460"></span>
+	</div>
+</div>
+
+
+
+<div class="x-inner x-toolbar-inner x-layout-hbox" id="ext-element-975" style="-webkit-box-align: center; -webkit-box-pack: start;">
+  <div class="x-button x-button-back" id="ext-button-69">
+    <span class="x-badge" style="display: none;"></span>
+	<span class="x-button-icon" style="display: none;"></span>
+	<span class="x-button-label" id="ext-element-976">Back</span>
+ </div>
+ <div class="x-button x-button-confirm x-item-hidden" id="ext-button-70" style="display: none !important;">
+   <span class="x-badge" style="display: none;"></span>
+   <span class="x-button-icon" style="display: none;"></span>
+   <span class="x-button-label" id="ext-element-977">Apply Changes</span>
+ </div>
+ <div id="ext-spacer-22" class="x-layout-box-item" style="-webkit-box-flex: 1;"></div>
+ <div class="x-button-normal x-button toolbarlogo" id="ext-button-71">
+   <span class="x-badge" style="display: none;"></span>
+   <span class="x-button-icon" style="display: none;"></span>
+   <span class="x-button-label" style="display: none;"></span>
+ </div>
+ <div id="ext-spacer-23" class="x-layout-box-item" style="-webkit-box-flex: 1;"></div>
+  <div class="x-container x-segmentedbutton x-item-hidden" id="ext-segmentedbutton-2" style="display: none !important;">
+   <div class="x-inner x-segmentedbutton-inner x-layout-hbox" id="ext-element-978" style="-webkit-box-align: stretch;">
+   <div class="x-button-normal x-button x-first" id="ext-button-72" style="width: 120px !important;">
+   <span class="x-badge" style="display: none;"></span><span class="x-button-icon" style="display: none;"></span>
+   <span class="x-button-label" id="ext-element-979">Server</span>
+   </div>
+   <div class="x-button-normal x-button x-last x-button-pressed" id="ext-button-73" style="width: 120px !important;">
+   <span class="x-badge" style="display: none;"></span><span class="x-button-icon" style="display: none;"></span>
+   <span class="x-button-label" id="ext-element-980">My Changes</span>
+   </div>
+  </div>
+ </div>
+ <div class="bannerdotIcon bannerdotIcon-normal" id="ext-iq_sidemenubtn-6">
+   <span class="x-badge" style="display: none;"></span>
+   <span class="x-button-icon" style="display: none;"></span>
+   <span class="x-button-label" style="display: none !important;" id="ext-element-981"></span>
+  </div>
+</div>
